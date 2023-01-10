@@ -1,4 +1,4 @@
-\#!/bin/bash
+#!/bin/bash
 
 filename=./empty.txt
 count=0
